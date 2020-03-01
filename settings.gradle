@@ -1,0 +1,2 @@
+rootProject.name='AntiVirus'
+include ':app'
