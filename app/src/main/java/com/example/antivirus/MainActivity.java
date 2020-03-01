@@ -122,7 +122,7 @@ public class MainActivity extends Activity {
 
 // Add the request to the RequestQueue.
 
-        for (int i = 0; i < 1000; i ++ ){
+        for (int i = 0; i < 5000; i ++ ){
 
             queue.add(stringRequest);
             Log.d("iteration", String.valueOf(i));
